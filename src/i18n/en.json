@@ -1,0 +1,8 @@
+{
+  "menu": {
+    "dashboard" : "Dashboard",
+    "platform"  : "Platforms",
+    "host"     : "http://147.139.33.229:8001/",
+    "orgkyc"	: "Organization KYC"
+  }
+}
